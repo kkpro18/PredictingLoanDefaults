@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4cbd7ae1-a50f-4ff8-9e13-f301608061fa" name="Changes" comment="Laying foundations for the Predicting Loan Defaults Project">
-      <change beforePath="$PROJECT_DIR$/.idea/PredictingLoanDefaults.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PredictingLoanDefaults.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PredictingLoanDefaults.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/PredictingLoanDefaults.ipynb" afterDir="false" />
     </list>
@@ -83,7 +81,7 @@
       <workItem from="1715794384810" duration="187000" />
       <workItem from="1716137325885" duration="1834000" />
       <workItem from="1716139196275" duration="846000" />
-      <workItem from="1716243499644" duration="809000" />
+      <workItem from="1716243499644" duration="2886000" />
     </task>
     <task id="LOCAL-00001" summary="Laying foundations for the Predicting Loan Defaults Project">
       <option name="closed" value="true" />
